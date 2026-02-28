@@ -69,13 +69,7 @@ Optimization & Scaling
 → Continuous monitoring and performance refinement
 
 
----
 
-![Org Stats](https://github-readme-stats.vercel.app/api?username=SystemizeEG&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemizeEG&layout=compact&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SystemizeEG&hide_border=true)
 
 ---
 
